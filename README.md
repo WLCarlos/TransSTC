@@ -1,2 +1,2 @@
 # TransSTC
-Data will be published after acceptance of the paper.
+Relevant data will be published after acceptance of the paper.
